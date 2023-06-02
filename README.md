@@ -8,9 +8,17 @@ The accuracy is computed as the proportion of trials for which the participant s
 
 When considering a machine participant, one has to extract the probability of the stimulus, which is expected to be higher for the word than for the non-word (how to extract this measure of probability is one of the numerous design choice the programmer is faced with) 
 
-### How non-words are picked up?
+### Examples of stimuli
 
-WIP
+<center>
+
+| Word   | Pseudo-word                                                 | Word   | Pseudo-word                                                 |
+|--------|-------------------------------------------------------------|--------|-------------------------------------------------------------|
+| hello  | lello <br> pello <br> sero <br> dello <br> sello <br>       | cookie | kootie <br> koonie <br> roodie <br> rootie <br> boonie <br> |
+
+Table 1: Minimal pairs of real and pseudo-words used in the spot-the-word lexical task.
+</center>
+
 
 ### Getting started
 
