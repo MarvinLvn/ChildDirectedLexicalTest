@@ -25,7 +25,7 @@ pip install childespy
 1) Create another conda env for `paraphone`
    
 ```bash
-git clone ssh://git@gitlab.cognitive-ml.fr:1022/mlavechin/paraphone.git
+git clone https://github.com/MarvinLvn/paraphone.git
 cd paraphone
 
 conda create -n paraphone python=3.8
